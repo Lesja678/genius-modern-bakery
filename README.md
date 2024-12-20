@@ -1,2 +1,1 @@
-# genius-modern-bakery
-Modern bakery psge
+# genius-lesson-project
